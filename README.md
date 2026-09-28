@@ -4,7 +4,12 @@ An experimental AI-powered 3D character built for the **2024 Gemini API Develope
 
 - [Competition entry](https://ai.google.dev/competition/projects/milias-future-diary?hl=en)
 - [Source code](https://github.com/kfurue/MiliasFutureDiary)
-- [Demo video](https://www.youtube.com/watch?v=wM4HUUrV7KE)
+
+## Demo
+
+[![Watch Milia's Future Diary demo on YouTube](https://img.youtube.com/vi/wM4HUUrV7KE/hqdefault.jpg)](https://www.youtube.com/watch?v=wM4HUUrV7KE)
+
+[Watch on YouTube](https://www.youtube.com/watch?v=wM4HUUrV7KE)
 
 ## How it works
 
